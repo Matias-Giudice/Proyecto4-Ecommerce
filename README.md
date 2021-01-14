@@ -1,5 +1,5 @@
 # Proyecto5-Ecommerce
-Foro sobre el juego SnakeGame.
+Ecommerce sobre componentes de PC.
 
 Lenguajes utilizados: PHP y CSS.
 
