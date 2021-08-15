@@ -1,4 +1,4 @@
-# Proyecto4-Ecommerce
+# Ecommerce
 Ecommerce sobre componentes de PC.
 
 Lenguajes utilizados: PHP y CSS.
